@@ -1,0 +1,46 @@
+/* geral */
+body, p, h1, h2, input, textarea {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #fff
+  }
+
+  header {
+    position: fixed;
+    top: 0px;
+    left: 0;
+    padding: 10px
+        
+  }
+
+  header img{
+    width: 120px;
+    height: auto;
+
+  }
+
+  h1{
+    color:#7b9dd8;
+
+
+
+  }
+  h2 {
+    font-size: 30px;
+  }
+
+  body{
+    background-image:url('tecimg.img.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  .dados { color: aqua;
+  }
+  .horários{ color: chocolate;
+  }
+  .cursos{ color: chartreuse;
+  }
